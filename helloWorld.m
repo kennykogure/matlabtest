@@ -1,4 +1,4 @@
 hello = "Hello";
-world = "a new world";
+world = "new world";
 
 fprintf(hello + " " + world + "!!\n");
